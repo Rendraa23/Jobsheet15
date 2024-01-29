@@ -15,13 +15,13 @@ class MainActivity : AppCompatActivity() {
         val tombol2 = findViewById<Button>(R.id.Nis)
 
         tombol.setOnClickListener {
-            Toast.makeText(this,"Alfian Davi Aghna",Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"Daffa' Raihan Nabawi",Toast.LENGTH_SHORT).show()
         }
         tombol1.setOnClickListener {
             Toast.makeText(this,"XI PPLG 1",Toast.LENGTH_SHORT).show()
         }
         tombol2.setOnClickListener {
-            Toast.makeText(this,"2233244",Toast.LENGTH_SHORT).show()
+            Toast.makeText(this,"2233248",Toast.LENGTH_SHORT).show()
         }
     }
 }
